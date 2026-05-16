@@ -137,6 +137,11 @@ papertitle {
   font-weight: 700
 }
 
+.publication-note {
+  margin: 8px 0 0 0;
+  color: #555;
+}
+
 name {
   font-family: 'Lato', Verdana, Helvetica, SimSun, 'Songti SC', STSong, serif;
   font-size: 25px;

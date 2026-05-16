@@ -1,0 +1,6 @@
+@article{wei2026kiras,
+  title={KiRAS: Keyframe Guided Self-Imitation for Robust and Adaptive Skill Learning in Quadruped Robots},
+  author={Wei, Xiaoyi and Zhai, Peng and Tu, Jiaxin and Zhang, Yueqi and Li, Yuqi and Zhang, Zonghao and Zhou, Hu and Zhang, Lihua},
+  journal={arXiv preprint arXiv:2603.15179},
+  year={2026}
+}
