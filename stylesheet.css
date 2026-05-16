@@ -115,35 +115,47 @@ th,
 tr,
 p,
 a {
-  font-family: 'Lato', Verdana, Helvetica,'SiYuanSong';
+  font-family: 'Lato', Verdana, Helvetica, SimSun, 'Songti SC', STSong, serif;
   font-size: 16px
 }
 
 strong {
-  font-family: 'Lato', Verdana, Helvetica, 'SiYuanSong';
+  font-family: 'Lato', Verdana, Helvetica, SimSun, 'Songti SC', STSong, serif;
   font-size: 17px;
 }
 
 
 
 heading {
-  font-family: 'Lato', Verdana, Helvetica, 'SiYuanSong';
+  font-family: 'Lato', Verdana, Helvetica, SimSun, 'Songti SC', STSong, serif;
   font-size: 24px;
 }
 
 papertitle {
-  font-family: 'Lato', Verdana, Helvetica,'SiYuanSong';
+  font-family: 'Lato', Verdana, Helvetica, SimSun, 'Songti SC', STSong, serif;
   font-size: 18px;
   font-weight: 700
 }
 
 name {
-  font-family: 'Lato', Verdana, Helvetica, 'SiYuanSong';
+  font-family: 'Lato', Verdana, Helvetica, SimSun, 'Songti SC', STSong, serif;
   font-size: 25px;
 }
 
 .intro-copy {
   line-height: 1.75;
+}
+
+.intro-copy .intro-name {
+  line-height: 1.2;
+  margin: 0 0 30px 0;
+  text-align: center;
+}
+
+.intro-copy .intro-name name {
+  display: block;
+  font-size: 32px;
+  font-weight: 700;
 }
 
 .intro-copy p {
@@ -152,6 +164,17 @@ name {
 
 .intro-copy p:last-child {
   margin-bottom: 0;
+}
+
+.intro-copy .intro-links {
+  text-align: center;
+  margin-top: 22px;
+  font-size: 18px;
+}
+
+.intro-links span {
+  margin: 0 8px;
+  color: #111;
 }
 
 .intro-topics {
