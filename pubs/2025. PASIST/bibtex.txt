@@ -1,0 +1,8 @@
+@inproceedings{tu2025continuous,
+  title={Continuous Control of Diverse Skills in Quadruped Robots Without Complete Expert Datasets},
+  author={Tu, Jiaxin and Wei, Xiaoyi and Zhang, Yueqi and Hou, Taixian and Gao, Xiaofei and Dong, Zhiyan and Zhai, Peng and Zhang, Lihua},
+  booktitle={2025 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={11191--11197},
+  year={2025},
+  organization={IEEE}
+}
