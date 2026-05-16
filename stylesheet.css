@@ -159,6 +159,31 @@ papertitle {
   font-size: 14px;
 }
 
+.video-note {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -16px;
+  color: #555;
+  font-size: 13px;
+  text-align: center;
+}
+
+.teaching-list {
+  margin: 12px 0 0 0;
+  line-height: 1.6;
+}
+
+.teaching-course {
+  margin: 14px 0 4px 0;
+  font-weight: 700;
+}
+
+.teaching-list ul {
+  margin: 0 0 8px 0;
+  padding-left: 22px;
+}
+
 name {
   font-family: 'Lato', Verdana, Helvetica, SimSun, 'Songti SC', STSong, serif;
   font-size: 25px;

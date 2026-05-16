@@ -1,0 +1,10 @@
+@INPROCEEDINGS{11127347,
+  author={Hou, Taixian and Zhang, Yueqi and Wei, Xiaoyi and Dong, Zhiyan and Yi, Jiafu and Zhai, Peng and Zhang, Lihua},
+  booktitle={2025 IEEE International Conference on Robotics and Automation (ICRA)}, 
+  title={Music-Driven Legged Robots: Synchronized Walking to Rhythmic Beats}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={5357-5363},
+  keywords={Legged locomotion;Frequency modulation;Trajectory planning;Tracking;Rhythm;Real-time systems;Synchronization;Quadrupedal robots;Oscillators;Videos},
+  doi={10.1109/ICRA55743.2025.11127347}}
