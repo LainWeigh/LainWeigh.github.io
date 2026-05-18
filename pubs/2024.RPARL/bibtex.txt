@@ -1,0 +1,10 @@
+@ARTICLE{10702590,
+  author={Zhai, Peng and Wei, Xiaoyi and Hou, Taixian and Ji, Xiaopeng and Dong, Zhiyan and Yi, Jiafu and Zhang, Lihua},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={Robust Proximal Adversarial Reinforcement Learning Under Model Mismatch}, 
+  year={2024},
+  volume={9},
+  number={11},
+  pages={10248-10255},
+  keywords={Perturbation methods;Training;Robustness;Reinforcement learning;Games;Noise;Complexity theory;Uncertainty;Transforms;Safety;Reinforcement learning (RL);machine learning for robot control;robust/adaptive control},
+  doi={10.1109/LRA.2024.3472348}}

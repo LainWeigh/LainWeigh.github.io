@@ -1,0 +1,10 @@
+@INPROCEEDINGS{11272665,
+  author={Li, Yuqi and Wei, Xiaoyi and Zhao, Xiao and Zhai, Peng and Zhang, Lihua},
+  booktitle={2025 IEEE 37th International Conference on Tools with Artificial Intelligence (ICTAI)}, 
+  title={$\mathrm{A}^{3} \mathrm{E}^{2}$ Net: Integrating Waypoints, Lanes, and Traces for Multi-Modal Trajectory Prediction}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={Network topology;Fuses;Roads;Predictive models;Benchmark testing;Transformers;Trajectory;Topology;Forecasting;Vehicles;multi-modal trajectory prediction;autoregressive model;graph convolutional network;Transformer},
+  doi={10.1109/ICTAI66417.2025.00134}}

@@ -1,0 +1,21 @@
+@InProceedings{10.1007/978-981-99-9119-8_22,
+author="Wei, Xiaoyi
+and Hou, Taixian
+and Zhao, Xiao
+and Tu, Jiaxin
+and Guan, Haiyang
+and Zhai, Peng
+and Zhang, Lihua",
+editor="Fang, Lu
+and Pei, Jian
+and Zhai, Guangtao
+and Wang, Ruiping",
+title="Reinforcement Learning-Based Algorithm for Real-Time Automated Parking Decision Making",
+booktitle="Artificial Intelligence",
+year="2024",
+publisher="Springer Nature Singapore",
+address="Singapore",
+pages="242--252",
+abstract="Recently, automated parking has gained attention for its ability to enhance parking accuracy and provide a comfortable experience for car owners. However, with the increasing number of vehicles in the parking lot, the traditional automatic parking algorithm face the dual challenges brought by narrow parking spaces and random vehicle obstacles. To address these issues, this paper proposes Curriculum Learning RL for automatic parking decision making in unregulated parking lots. Our approach involves SAC, a reinforcement learning (RL) algorithm, for curriculum learning, where the vehicle learns to park and avoid the obstacles separately through two courses. We incorporate a reward function that considers both location and safety, facilitating continuous learning of optimal actions. In addition, we develop a simulation platform for unregulated parking lots, and we train the algorithm on this platform. Comparing our algorithm with one that learns both actions simultaneously, we observe superior results in shorter timesteps. Furthermore, experiments conducted under various parking conditions demonstrate the algorithm's strong generalization capabilities.",
+isbn="978-981-99-9119-8"
+}
